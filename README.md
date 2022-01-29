@@ -103,5 +103,18 @@ relative | 요소 자신 | X
 absolute | 위치상 부묘오소 | X
 fixed | 뷰포트 | X
 
+# 원시 HTML(Raw HTML)
+
+동해물과 <span style="text-decoration: underline;">백두산이</span> 마르고 닳도록<br>  
+<u>하느님이</u> 보우하사 우리나라 만세
+___
+
+# 수평선(Horizontal Rule)
+
+---
+
+***
+
+___
 
 
