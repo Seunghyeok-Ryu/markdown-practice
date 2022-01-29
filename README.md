@@ -91,3 +91,17 @@ $ git commit -m 'Study Markdown'
 동해물과 백두산이 마르고 닳도록  
 하느님이 보우하사 우리나라 만세
 ```
+
+# 표(Table)
+
+position 속성
+
+값 | 의미 | 기본값
+--|:--:|--:
+static | 기준 없음 | O
+relative | 요소 자신 | X
+absolute | 위치상 부묘오소 | X
+fixed | 뷰포트 | X
+
+
+
